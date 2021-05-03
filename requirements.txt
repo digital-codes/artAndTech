@@ -69,7 +69,8 @@ proglog==0.1.9
 prometheus-client==0.10.1
 prompt-toolkit==3.0.18
 ptyprocess==0.7.0
-PyAudio==0.2.11
+# pyaudio does not work on binder
+#PyAudio==0.2.11
 pycparser==2.20
 pygame==2.0.1
 pygame-gui==0.5.7
