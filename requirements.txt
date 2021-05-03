@@ -100,6 +100,9 @@ webcolors==1.11.1
 webencodings==0.5.1
 widgetsnbextension==3.5.1
 zipp==3.4.1
+# try to include wave and wavio
+Wave==0.0.2
+wavio==0.0.4
 # audio does not work on binder ???
 # PyAudio==0.2.11
 # Wave==0.0.2
