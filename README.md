@@ -6,3 +6,6 @@ www.zkm.de. I do not take any responsibility for the content on any of these ext
 nor the correctness of the links. In case you find anything offending, incorrect or suspicious, let me know.
 
 
+## Initilize environment
+If nbgitpuller is installer in your enviornment, you can initiaize from this repo with the following
+[link](https://py.ok-lab-karlsruhe.de/hub/user-redirect/git-pull?repo=https://github.com/digital-codes/artAndTech&branch=st21&app=notebook)
