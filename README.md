@@ -14,5 +14,5 @@ nor the correctness of the links. In case you find anything offending, incorrect
 ## Initilize environment
 If nbgitpuller is installer in your enviornment, you can initiaize from this repo in the following fashion (replace "py.ok-lab-karlsruhe..." with your location):
 
-[link](https://py.ok-lab-karlsruhe.de/hub/user-redirect/git-pull?repo=https://github.com/digital-codes/artAndTech&branch=fall2022&app=notebook)
+[link](https://py.ok-lab-karlsruhe.de/hub/user-redirect/git-pull?repo=https://github.com/digital-codes/artAndTech&branch=june2023&app=notebook)
 
